@@ -2,7 +2,9 @@
 👽 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hola+Como+Estan;Todos;+👋;Welcome!)
 
-👋 ¡Hola! Soy Niwre, estudiante de Ingeniería de Sistemas apasionado por el desarrollo de software y la tecnología. Actualmente, estoy explorando diversas áreas como desarrollo web, bases de datos y algoritmos. Me encanta aprender y colaborar en proyectos que tengan un impacto positivo. 🚀
+👋 ¡Hola! Soy Niwre , tengo 21 años y soy estudiante de Ingeniería de Sistemas en la Escuela Militar de Ingeniería. Con una pasión desbordante por la tecnología y el desarrollo de software, mi misión es aprovechar el poder de la tecnología para crear soluciones innovadoras que mejoren la vida de las personas. Estoy comprometido con el aprendizaje continuo y la superación personal, siempre buscando nuevos desafíos que me impulsen a crecer. 🚀
+
+Creo firmemente que con dedicación, creatividad y trabajo en equipo, podemos lograr cosas increíbles. ¡Vamos juntos a construir un futuro mejor! 💡🌍
 📈 Statistics
 
 <h1 align="center">Github Metrics </h1><p align="center">
